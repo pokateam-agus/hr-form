@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "value": "ABBOTT LABORATORIES"
+  },
+  {
+    "id": 2,
+    "value": "ARCOR SAIC"
+  },
+  {
+    "id": 3,
+    "value": "ARDION S.A."
+  },
+  {
+    "id": 4,
+    "value": "BAGLEY ARGENTINA S.A"
+  },
+  {
+    "id": 5,
+    "value": "BIMBO"
+  },
+  {
+    "id": 6,
+    "value": "BODEGA DANTE ROBINO S.A."
+  },
+  {
+    "id": 7,
+    "value": "BODEGAS SALENTEIN SA"
+  },
+  {
+    "id": 8,
+    "value": "CERVECERIA Y MALTERIA QUILMES"
+  },
+  {
+    "id": 9,
+    "value": "CHAN-ONE SA"
+  },
+  {
+    "id": 10,
+    "value": "CIA INDUSTRIAL CERVECERA S A"
+  },
+  {
+    "id": 11,
+    "value": "COCA COLA ARGENTINA"
+  },
+  {
+    "id": 12,
+    "value": "COCA COLA FEMSA BUENOS AIRES SA"
+  },
+  {
+    "id": 13,
+    "value": "COMBE ARGENTINA"
+  },
+  {
+    "id": 14,
+    "value": "COMPAÑIA ARGENTINA DE LEVADURAS SAIC"
+  },
+  {
+    "id": 15,
+    "value": "CORTEVA AGRISCIENCE ARGENTINA SRL"
+  },
+  {
+    "id": 16,
+    "value": "COTY"
+  },
+  {
+    "id": 17,
+    "value": "DIRECTV ARGENTINA SOCIEDAD ANONIMA"
+  },
+  {
+    "id": 18,
+    "value": "ECO DE LOS ANDES SA"
+  },
+  {
+    "id": 19,
+    "value": "ESPN SUR S.R.L."
+  },
+  {
+    "id": 20,
+    "value": "FCA - CHRYSLER"
+  },
+  {
+    "id": 21,
+    "value": "FCA ARGENTINA S.A"
+  },
+  {
+    "id": 22,
+    "value": "FCA_GROUP - FIAT CHRYSLER AUTOMOBILE GROUP"
+  },
+  {
+    "id": 23,
+    "value": "FUNDACION TEMAIKEN"
+  },
+  {
+    "id": 24,
+    "value": "GLAXOSMITHKLINE ARGENTINA SA"
+  },
+  {
+    "id": 25,
+    "value": "GREAT CARS SA"
+  },
+  {
+    "id": 26,
+    "value": "GRUPO ARCOR S.A."
+  },
+  {
+    "id": 27,
+    "value": "INGRECOR S.A"
+  },
+  {
+    "id": 28,
+    "value": "JUVENTUS LYRICA ASOCIACION CIVIL"
+  },
+  {
+    "id": 29,
+    "value": "KARCHER SA"
+  },
+  {
+    "id": 30,
+    "value": "L OREAL PANAMA S A"
+  },
+  {
+    "id": 31,
+    "value": "LENOVO"
+  },
+  {
+    "id": 32,
+    "value": "LIFE SEGUROS DE PERSONAS Y PATRIMONIALES S.A."
+  },
+  {
+    "id": 33,
+    "value": "LOGITECH ARGENTINA"
+  },
+  {
+    "id": 34,
+    "value": "L´OREAL ARGENTINA"
+  },
+  {
+    "id": 35,
+    "value": "MCDONALDS - MCDONALD_S"
+  },
+  {
+    "id": 36,
+    "value": "MEXICHEM ARGENTINA S.A."
+  },
+  {
+    "id": 37,
+    "value": "MITSU MOTORS SA"
+  },
+  {
+    "id": 38,
+    "value": "MMS APEX"
+  },
+  {
+    "id": 39,
+    "value": "MONDELEZ"
+  },
+  {
+    "id": 40,
+    "value": "MOTOROLA"
+  },
+  {
+    "id": 41,
+    "value": "NVIO PAGOS ARGENTINA"
+  },
+  {
+    "id": 42,
+    "value": "NVIO PAGOS ARGENTINA S.A.U."
+  },
+  {
+    "id": 43,
+    "value": "P&G AOR"
+  },
+  {
+    "id": 44,
+    "value": "PANAMERICAN ENERGY"
+  },
+  {
+    "id": 45,
+    "value": "PAPEL MISIONERO SAIFC"
+  },
+  {
+    "id": 46,
+    "value": "PEUGEOT CITROEN ARGENTINA"
+  },
+  {
+    "id": 47,
+    "value": "PUIG ARGENTINA"
+  },
+  {
+    "id": 48,
+    "value": "RED BULL ARGENTINA SRL"
+  },
+  {
+    "id": 49,
+    "value": "SAMSUNG"
+  },
+  {
+    "id": 50,
+    "value": "SAVANT PHARM S.A."
+  },
+  {
+    "id": 51,
+    "value": "SERVICIO ELECTRÓNICO DE PAGO S A"
+  },
+  {
+    "id": 52,
+    "value": "STARCOM WORLDWIDE, INC US9335"
+  },
+  {
+    "id": 53,
+    "value": "TFCF LATIN AMERICAN CHANNEL S.R.L."
+  },
+  {
+    "id": 54,
+    "value": "THE WALT DISNEY COMPANY ARGENTINA SA"
+  },
+  {
+    "id": 55,
+    "value": "TIKTOK INC"
+  },
+  {
+    "id": 56,
+    "value": "UN TECHO PARA ARGENTINA ASOCIACION CIVIL"
+  },
+  {
+    "id": 57,
+    "value": "VERITRAN"
+  },
+  {
+    "id": 58,
+    "value": "VISA - VISA"
+  },
+  {
+    "id": 59,
+    "value": "WESTERN_UNION - WESTERN UNION"
+  },
+  {
+    "id": 60,
+    "value": "ZO APEX"
+  },
+  {
+    "id": 61,
+    "value": "ZZ OTHER ANSWER"
+  },
+  {
+    "id": 62,
+    "value": "ZZ OTHER UNIVERSIDAD DE PALERMO"
+  },
+  {
+    "id": 63,
+    "value": "OTRO"
+  }
+]
